@@ -1745,7 +1745,7 @@ template {
     margin-bottom: 20px;
   }
 }
-@media only screen and (max-width: 456px) {
+@media only screen and (max-width: 375px) {
   .page4-heading {
     font-size: 38px;
   }
